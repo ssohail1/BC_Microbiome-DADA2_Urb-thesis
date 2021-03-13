@@ -4,7 +4,7 @@ Alpha-diversity: Shannon-Simpson plot
 
 Beta-diversity: Bray NMDS plot
 
-**Languages & Packages**:
+**Language & Package**:
 
 R
 - phyloseq
