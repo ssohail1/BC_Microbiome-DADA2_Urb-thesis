@@ -4,7 +4,7 @@
 
 Paper: Urbaniak, C. et al. Microbiota of human breast tissue. Appl. Environ. Microbiol. 80, 3007–3014 (2014).
 
-Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac plots, and Proportional Abundance Plot Analysis
+Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac, and Proportional Abundance Plot Analysis
 
 
 
